@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MkvCrud", "MkvCrud\MkvCrud.csproj", "{54FB2E27-D74F-4A2C-9A0A-9D0E7430799F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{3CF23DD0-FB0C-4D86-9669-07C0C2F8B9A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{FABDA014-9E47-4700-8EAD-8D4EB4FBCD9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54FB2E27-D74F-4A2C-9A0A-9D0E7430799F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FB2E27-D74F-4A2C-9A0A-9D0E7430799F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FB2E27-D74F-4A2C-9A0A-9D0E7430799F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FB2E27-D74F-4A2C-9A0A-9D0E7430799F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF23DD0-FB0C-4D86-9669-07C0C2F8B9A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF23DD0-FB0C-4D86-9669-07C0C2F8B9A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF23DD0-FB0C-4D86-9669-07C0C2F8B9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF23DD0-FB0C-4D86-9669-07C0C2F8B9A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABDA014-9E47-4700-8EAD-8D4EB4FBCD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABDA014-9E47-4700-8EAD-8D4EB4FBCD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABDA014-9E47-4700-8EAD-8D4EB4FBCD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABDA014-9E47-4700-8EAD-8D4EB4FBCD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C341BC4-25D5-47B9-BBB8-F534B3A0B3F0}
+	EndGlobalSection
+EndGlobal
